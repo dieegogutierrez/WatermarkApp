@@ -2,7 +2,7 @@
 
 The Watermark Desktop App is a user-friendly application built using the Tkinter and Pillow libraries in Python. This app allows users to easily add watermarks to their JPG or PNG images. With a simple and intuitive interface, users can customize various watermark properties such as font style, color, size, opacity, and position before saving the watermarked image.
 
-![Watermark Desktop App](assets/watermarkapp.png)
+![Watermark Desktop App](static/assets/watermarkapp.png)
 
 ## Reproduce the code
 
