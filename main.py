@@ -1,4 +1,5 @@
 from watermark import WatermarkApp
 
-app = WatermarkApp()
-app.mainloop()
+if __name__ == "__main__":
+    app = WatermarkApp()
+    app.mainloop()
